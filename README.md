@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img height="200" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif"  />
 </div>
 
