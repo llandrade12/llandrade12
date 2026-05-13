@@ -38,8 +38,8 @@
 
 <div align="center">
 
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=llandrade12&show_icons=true&theme=github_dark&bg_color=0d0d0d&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&border_color=2a2a2a&rank_icon=github" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llandrade12&layout=compact&theme=github_dark&bg_color=0d0d0d&title_color=FFFFFF&text_color=AAAAAA&border_color=2a2a2a&langs_count=6" />
+  <img height="175" src="profile/stats.svg" />
+  <img height="175" src="profile/langs.svg" />
 
 </div>
 
