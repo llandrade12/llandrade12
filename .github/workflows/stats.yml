@@ -2,7 +2,7 @@ name: Generate Stats Cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # todo dia às 3h UTC
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,16 +18,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: >
-            username=llandrade12
-            &show_icons=true
-            &theme=github_dark
-            &bg_color=0d0d0d
-            &title_color=FFFFFF
-            &text_color=AAAAAA
-            &icon_color=FFFFFF
-            &border_color=2a2a2a
-            &rank_icon=github
+          options: "username=llandrade12&show_icons=true&theme=github_dark&bg_color=0d0d0d&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&border_color=2a2a2a&rank_icon=github"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,15 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: >
-            username=llandrade12
-            &layout=compact
-            &theme=github_dark
-            &bg_color=0d0d0d
-            &title_color=FFFFFF
-            &text_color=AAAAAA
-            &border_color=2a2a2a
-            &langs_count=6
+          options: "username=llandrade12&layout=compact&theme=github_dark&bg_color=0d0d0d&title_color=FFFFFF&text_color=AAAAAA&border_color=2a2a2a&langs_count=6"
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
