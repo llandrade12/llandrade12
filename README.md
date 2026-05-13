@@ -1,13 +1,13 @@
-<div align="right">
-  <img height="200" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif"  />
+<div align="center">
+
+<pre style="color: #aaa; background: #0a0a0a; padding: 12px; line-height: 1.8; display: inline-block; text-align: center;">
+┌─────────────────────────────────────────────────────────────┐
+│  DAEMON: <span style="color: #33FF33;">gengar.exe</span> [ACTIVE]  │  CHANNEL: <a href="https://www.instagram.com/llandrade__/?hl=pt"><span style="color: #fff;">instagram/llandrade__</span></a>  │
+└─────────────────────────────────────────────────────────────┘
+</pre>
+
+<div style="margin-top: -50px; margin-bottom: -20px;">
+  <img height="80" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/llandrade__/?hl=pt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 </div>
-
-###
