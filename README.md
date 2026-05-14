@@ -44,16 +44,13 @@
 </div>
 
 ---
-
-## Contribution Snake
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/llandrade12/llandrade12/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-## Connect
+## Redes Sociais
 
 <div align="center">
 
