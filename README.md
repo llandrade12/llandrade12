@@ -16,7 +16,7 @@
 
 ---
 
-## `$ whoami`
+## `Llandrade`
 
 ```
 ◈  Role     →  Backend / Full-Stack Apprentice
