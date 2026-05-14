@@ -26,7 +26,7 @@
 
 ---
 
-## Technologies
+## Tecnologias 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,php,postgres,html,css,git,vscode&theme=dark&perline=8" />
@@ -34,7 +34,7 @@
 
 ---
 
-## Statistics
+## Estatísticas
 
 <div align="center">
 
