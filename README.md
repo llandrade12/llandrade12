@@ -36,13 +36,6 @@
 
 ## Estatísticas
 
-<div align="center">
-
-  <img height="175" src="profile/stats.svg" />
-  <img height="175" src="profile/langs.svg" />
-
-</div>
-
 ---
 <div align="center">
   <img src="https://raw.githubusercontent.com/llandrade12/llandrade12/output/github-contribution-grid-snake-dark.svg" />
