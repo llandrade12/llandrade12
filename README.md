@@ -34,15 +34,6 @@
 
 ---
 
-## Estatísticas
-
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/llandrade12/llandrade12/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
 ## Redes Sociais
 
 <div align="center">
